@@ -1,6 +1,6 @@
 <?php
-#Pengunaan Interface
-Interface Cetak {
-    public function cetakStruk();
+#penggunaaan Interface
+interface Cetak {
+    public function cetakstruk();
 }
 ?>
